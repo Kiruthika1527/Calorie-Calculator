@@ -46,7 +46,7 @@ Daily Calories Needed: 1618 kcal
 Calories = (10 × Weight) + (6.25 × Height) − (5 × Age) + 5
 ```
 
-### Female
+Female
 
 Calories = (10 × Weight) + (6.25 × Height) − (5 × Age) − 161
 ```
@@ -58,4 +58,4 @@ BE Computer Science Engineering
 
 ---
 
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
+
