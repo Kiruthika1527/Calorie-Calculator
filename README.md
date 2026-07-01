@@ -18,7 +18,7 @@ A simple and user-friendly web application that calculates the estimated daily c
 - CSS3
 - JavaScript
 
-## 🚀 How to Run
+## How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
@@ -26,7 +26,7 @@ A simple and user-friendly web application that calculates the estimated daily c
 4. Enter your details.
 5. Click the **Calculate** button to view your estimated daily calorie requirement.
 
-## 📊 Example
+## Example
 
 ### Input
 
