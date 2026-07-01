@@ -48,7 +48,7 @@ Calories = (10 × Weight) + (6.25 × Height) − (5 × Age) + 5
 
 Female
 
-Calories = (10 × Weight) + (6.25 × Height) − (5 × Age) − 161
+Calories = (10 x Weight) + (6.25 X Height) - (5 x Age) -161
 ```
 
 ## Author
